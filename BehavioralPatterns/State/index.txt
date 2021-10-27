@@ -1,0 +1,4 @@
+﻿A pattern which the object behavior is determined by its state.
+An object transactions from one state to another (something needs to trigger a transaction)
+
+A formalized construct which manages state and transactions is called a state machine.

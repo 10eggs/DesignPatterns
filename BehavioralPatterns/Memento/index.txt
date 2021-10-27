@@ -1,0 +1,14 @@
+﻿Motivation:
+
+Object or systems go through the changes (i.e. bank acc gets deposits and withdrawals)
+There are many ways how we can handle these changes
+One way is to record every change (Command) and teach
+a command ('undo') itself
+
+Another is to simple save snapshots of the system
+
+A token/handle representing the system state.
+Lets us roll back to the state when the token was generated.
+May or may not directly expose state information
+
+

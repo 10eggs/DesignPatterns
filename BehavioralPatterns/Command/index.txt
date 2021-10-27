@@ -1,0 +1,6 @@
+﻿Ordinary c# statement are perishable
+-Cannot undo a field/property assignment,
+-Cannor directly seialize a sequence of actions
+
+Command is an object which represent operation
+X should changeits property Y to Z

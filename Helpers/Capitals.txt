@@ -1,0 +1,6 @@
+﻿Warsaw
+1000000
+Berlin
+300000
+Amsterdam
+123

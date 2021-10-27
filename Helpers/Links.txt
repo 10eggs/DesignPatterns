@@ -1,0 +1,30 @@
+﻿Struct:
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/struct
+
+Lazy Init:
+https://docs.microsoft.com/en-us/dotnet/framework/performance/lazy-initialization
+
+Singleton lies:
+https://testing.googleblog.com/2008/08/by-miko-hevery-so-you-join-new-project.html
+
+Memorystream class:
+https://docs.microsoft.com/en-us/dotnet/api/system.io.memorystream?view=net-5.0
+
+Using statement:
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+
+Serialization:
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/
+
+TryParse
+https://docs.microsoft.com/en-us/dotnet/api/system.int32.tryparse?view=net-5.0
+
+Out keyword
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/out
+
+Assemblies:
+https://docs.microsoft.com/en-us/dotnet/standard/assembly/
+
+Dynamic programming:
+https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/
+https://www.geeksforgeeks.org/dynamic-programming/
